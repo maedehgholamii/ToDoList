@@ -39,4 +39,4 @@ def entertask():
     root1.title("Add task")
     entry_task=Text(root1,width=40,height=4)
     entry_task.pack()
-    button_temp=Button(root1,text="Add task")
+    button_temp=Button(root1,text="Add task",)
